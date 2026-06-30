@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I am a **3rd-Year Computer Science & Engineering s
 ---
 
 ### 📫 How to reach me
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** [Your Email Address]
+- **LinkedIn:** [https://www.linkedin.com/in/krish-sharma-43a77141a]
+- **Email:** [krishsharma41041@gmail.com]
 
 *"First, solve the problem. Then, write the code."* 💻## Hi there 👋
 
