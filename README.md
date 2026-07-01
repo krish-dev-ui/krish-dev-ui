@@ -1,51 +1,68 @@
-# Hi there, I'm Krish! 👋
+<h1 align="center">Hi, I'm Krish Sharma 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=3rd+Year+CSE+Student;🐍+Future+Python+Expert;⚡+Exploring+JavaScript" alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub profile! I am a **3rd-Year Computer Science & Engineering student** who loves exploring how software works under the hood. I'm passionate about building logic, optimizing algorithms, and turning ideas into clean code.
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently refining my skills in core computer science concepts.
-- 📚 Curious about low-level systems, operating system mechanics, and architecture.
-- ✍️ I value strong technical communication and well-documented code.
-- ⚡ Fun fact: I enjoy diving deep into how systems handle multitasking and efficiency.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=39FF14&height=120&section=header&text=Welcome%20to%20my%20Space&fontSize=30&animation=fadeIn&fontColor=000000" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🌌 Overview
 
-*   **Languages:** 
-    *   `C++` (Object-Oriented Programming, Data Structures & Algorithms)
-    *   `Python` (Scripting, Automation, and Problem Solving)
-*   **Core Concepts:** Operating Systems, Algorithm Design, Digital Electronics
-*   **Tools:** Git, GitHub, VS Code, Linux
+I am an aspiring **Computer Science & Engineering student** currently in my 3rd year. I enjoy architecting clean logic, solving problems, and turning ideas into execution. Right now, I'm taking my foundational skills to the absolute limit.
 
----
-
-### 📊 GitHub Stats
-
-[![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 💻 **Current Focus:** Elevating my Python game from foundational scriptwriting to advanced architectures.
+- 🚀 **Next Milestone:** Unlocking the power of asynchronous JavaScript and modern web frameworks.
+- 🛠️ **Belief:** Clean code is just poetry that runs.
 
 ---
 
-### 📫 How to reach me
-- **LinkedIn:** [https://www.linkedin.com/in/krish-sharma-43a77141a]
-- **Email:** [krishsharma41041@gmail.com]
+### 🛠️ Ecosystem & Tech Stack
 
-*"First, solve the problem. Then, write the code."* 💻## Hi there 👋
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h4>⚙️ Core Capabilities</h4>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h4>🎯 Actively Leveling Up</h4>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Advanced_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-<!--
-**krish-dev-ui/krish-dev-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 Performance Metrics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krish-dev-ui&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Krish's Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish-dev-ui&theme=tokyonight&hide_border=true" alt="Krish's Streak" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-dev-ui&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
+### 🤝 Digital Handshake
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/krish-sharma-43a77141a" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:krishsharma41041@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=39FF14&height=60&section=footer" />
+</p>
