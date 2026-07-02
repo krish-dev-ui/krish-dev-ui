@@ -4,7 +4,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/originals/af/54/eb/af54eb029c72d275a1a6d54bfbb94356.gif"  />
+<img data-importer="image" align="middle" height="150" src="https://i.pinimg.com/originals/af/54/eb/af54eb029c72d275a1a6d54bfbb94356.gif"  />
 
 
 # 👨‍💻 About Me
