@@ -1,54 +1,11 @@
 <h1 align="center">Hi 👋, I'm krish</h1>
 <br clear="both">
 
-<h1 data-importer="text" align="center">Hi 👋! My name is krish</h1>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
 
 ###
 
 <img data-importer="image" align="right" height="150" src="https://i.pinimg.com/originals/af/54/eb/af54eb029c72d275a1a6d54bfbb94356.gif"  />
 
-###
-
-<div data-importer="socials" align="left">
-  <a href="krishsharma41041@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/krish-sharma-43a77141a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="k_krish.19" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<p data-importer="text" align="left">Hello World!!</p>
-
-###
-<h3 align="center">
-🎓 Third Year Computer Science Engineering Student |
-🤖 AI & Machine Learning Enthusiast |
-💻 Front-End Developer
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Computer+Science+Engineering+Student;Learning+AI+%26+Machine+Learning;HTML5+%7C+CSS+%7C+JavaScript;Always+Learning+New+Technologies+🚀" />
-</p>
-
----
 
 # 👨‍💻 About Me
 
