@@ -33,11 +33,7 @@
 
 <a href="https://www.instagram.com/k_krish.19?igsh=MXFxbTZsOWJyZDNzcA==" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/share/1ETG1yN2KR/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+</a>  
 
 </p>
 
